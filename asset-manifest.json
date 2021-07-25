@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/matchShirtwithpant/static/css/main.fd6ffa53.chunk.css",
-    "main.js": "/matchShirtwithpant/static/js/main.e228986d.chunk.js",
-    "main.js.map": "/matchShirtwithpant/static/js/main.e228986d.chunk.js.map",
-    "runtime-main.js": "/matchShirtwithpant/static/js/runtime-main.4528cb37.js",
-    "runtime-main.js.map": "/matchShirtwithpant/static/js/runtime-main.4528cb37.js.map",
-    "static/js/2.d6b4d016.chunk.js": "/matchShirtwithpant/static/js/2.d6b4d016.chunk.js",
-    "static/js/2.d6b4d016.chunk.js.map": "/matchShirtwithpant/static/js/2.d6b4d016.chunk.js.map",
-    "index.html": "/matchShirtwithpant/index.html",
-    "static/css/main.fd6ffa53.chunk.css.map": "/matchShirtwithpant/static/css/main.fd6ffa53.chunk.css.map",
-    "static/js/2.d6b4d016.chunk.js.LICENSE.txt": "/matchShirtwithpant/static/js/2.d6b4d016.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.fd6ffa53.chunk.css",
+    "main.js": "/static/js/main.e1e2a514.chunk.js",
+    "main.js.map": "/static/js/main.e1e2a514.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.be265e1d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.be265e1d.js.map",
+    "static/js/2.353e8097.chunk.js": "/static/js/2.353e8097.chunk.js",
+    "static/js/2.353e8097.chunk.js.map": "/static/js/2.353e8097.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fd6ffa53.chunk.css.map": "/static/css/main.fd6ffa53.chunk.css.map",
+    "static/js/2.353e8097.chunk.js.LICENSE.txt": "/static/js/2.353e8097.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4528cb37.js",
-    "static/js/2.d6b4d016.chunk.js",
+    "static/js/runtime-main.be265e1d.js",
+    "static/js/2.353e8097.chunk.js",
     "static/css/main.fd6ffa53.chunk.css",
-    "static/js/main.e228986d.chunk.js"
+    "static/js/main.e1e2a514.chunk.js"
   ]
 }
